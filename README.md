@@ -1,6 +1,9 @@
 # -NLP-Authorship-Identification
 Classify the authorship of a segment of text based on machine learning methods
 
+
+Operating System: Windows 10
+
 The versions of Python and all used libraries:
 
 Python 3.6.4
