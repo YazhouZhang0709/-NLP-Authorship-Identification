@@ -15,3 +15,5 @@ nltk 3.2.5
 scikit-learn 0.19.1
 
 scipy 1.1.0
+
+pickle 4.0
